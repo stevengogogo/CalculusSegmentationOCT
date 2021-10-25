@@ -31,3 +31,8 @@ Due to sparse datasets and distorted images, U-Net provides a robust tool for pr
 ## Conclusion
 
 U-Net is a promising way for the novel application of dental calculus detection via OCT imaging. We should acquire more labeled datasets and compare images under different material interference. 
+
+
+## About dataset
+
+- The original dataset is not uploaded in this repo, please contact Dr. Shyh‐Yuan Lee.
